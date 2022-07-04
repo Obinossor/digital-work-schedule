@@ -24,6 +24,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 Weblink:
+https://obinossor.github.io/digital-work-schedule/
 
 Mock-up
 
