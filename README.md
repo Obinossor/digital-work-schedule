@@ -29,7 +29,7 @@ Mock-up
 
 The following image demonstrates the application functionality:
 
-![Digital-Work-Schedule](https://user-images.githubusercontent.com/100929008/177148004-4f661e20-8fb1-45b6-8ee5-671f256eabfd.PNG)
+![Digital-Work-Schedule](https://user-images.githubusercontent.com/100929008/177148689-37bcc884-6ffd-40b1-8128-db619ade8d79.PNG)
 
 Author:
 Tarik Mazumder
