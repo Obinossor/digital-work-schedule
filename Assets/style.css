@@ -1,0 +1,78 @@
+body {
+    font-family: "Aerial", Serif;
+    font-size: 16px;
+    line-height: 1;
+  }
+  P {
+    font-size: 20px;
+    color:black'
+  }
+  h1 {
+    font-family: "Aerial", sans-serif;
+  }
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: rgb(11, 141, 192);
+    border-radius: 0;
+    border-bottom: 2px solid #86498c;
+  }
+  
+  textarea {
+    background: blueviolet;
+    border: none;
+    resize: none;
+    color: #350303;
+    border-left: 1px solid #86498c;
+    padding: 10px;
+  }
+ 
+  .description {
+    white-space: pre-wrap;
+  }
+  
+  .time-block {
+    text-align: center;
+    border-radius: 15px;
+  }
+  
+  .row {
+    white-space: pre-wrap;
+    height: 80px;
+    border-top: 1px solid rgb(28, 8, 141);
+  }
+  
+  .hour {
+    background-color: #0d15ab;
+    color: #000000;
+    border-top: 1px dashed #86498c;
+  }
+  
+  .previous {
+    background-color: #1f087b;
+    color: rgb(14, 8, 123);
+  }
+  
+  .current {
+    background-color: #d96a29;
+    color: rgb(9, 17, 131);
+  }
+  
+  .future {
+    background-color: #69afbf;
+    color: rgb(55, 12, 125);
+  }
+  
+  .calSaveBtn {
+    border: 1px solid #86498c;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: #197ed6;
+    color: white;
+  }
+  
+  .calSaveBtn i:hover {
+    font-size: 25px;
+    transition: all 0.3s ease-in-out;
+  }
+  
